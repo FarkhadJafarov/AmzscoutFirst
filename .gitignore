@@ -1,0 +1,15 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Selenium WebDriver logs
+geckodriver.log
+chromedriver.log
+
+# Log files
+*.log
